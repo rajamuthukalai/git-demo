@@ -2,3 +2,5 @@ git status
 git checkout
 git stash
 git reset
+git commit
+git commit again
